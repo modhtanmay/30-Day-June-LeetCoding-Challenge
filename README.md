@@ -1,2 +1,4 @@
 # 30-Day-June-LeetCoding-Challenge
-30 Day June LeetCode Challenge Solutions in JAVA. Fill Free to fork in other languages.
+Solutions of 30 Day June LeetCoding in JAVA ( Fill Free to fork in other languages.)
+
+Name having (*) their solution are not present if solved feel free to fork
